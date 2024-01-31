@@ -1,0 +1,31 @@
+a1234b2345c2345d7489e
+a1234b2345c2345d7489e
+
+export GHONE=ghp_00a00aDDAg111xaAA7nAA0AalMspJB0tNaaa
+export GHTWO=ghp_99g00bXXGj528xxAA4kQG2CxlMspJB0tNxaz
+
+export SNYK=f04957cf-1199-8xx2-xax1-123a1234b567
+
+export VERIFIED_CLICKUP=pk_50622320_UH5GJQV5EW8UU2VHY5G7YMMLHQ9FC9TH
+
+echo "hi"
+echo "nothing to see here'
+echo ":)"
+
+echo "Batch of fake secrets below"
+
+echo "b2c04461bc8d21b36a5a81364c2dd7307598698a702b017dcbc141e413513e74"
+
+export a=xoxb-730191371696-1413868247813-IG7Z6nYevC2hdviE3aJhb5kY
+
+export b="https://api_key:token@my.grafana.net"
+
+export f="gitlab-migration-0001"
+
+export xx="mongodb+srv://serxxxxx703:s7xxxx8@cluster0.1lssu.mongodb.net/cluster0"
+
+export aws="AKIASS72XWPNT22ZFB5N"
+
+export k="d1e4f990f57349334368c8253382abc63be02d73"
+
+export notasecret="a1234b2345c2345d7489e"
