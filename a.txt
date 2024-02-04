@@ -10,7 +10,7 @@ export VERIFIED_CLICKUP=pk_50622320_UH5GJQV5EW8UU2VHY5G7YMMLHQ9FC9TH
 
 echo "hi"
 echo "nothing to see here'
-echo ":)"
+echo ":)" 
  
 echo "Batch of fake secrets below"
 
